@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Vjezba_1_PIS
 {
@@ -6,7 +7,8 @@ namespace Vjezba_1_PIS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Pozdrav")
         }
     }
 }
